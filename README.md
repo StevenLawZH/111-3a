@@ -9,5 +9,9 @@
 
 ![nkust](github.jpg "nkust")
 
--[]todo list
--[]done
+-[] todo list
+-[x] done
+
+```python
+s = "Python Syntax Highlighting"
+print(s)
