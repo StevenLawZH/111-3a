@@ -29,7 +29,7 @@ Strikethrough uses two tildes. ~~Seratch this.~~
 
 ---
 
-- [ ] todo list
+- [x] todo list
 - [x] 2nd things
 
 ---
