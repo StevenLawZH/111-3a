@@ -12,6 +12,16 @@
 
 ---
 
+#### 馬來西亞 :Malaysia:
+>砂拉越
+>>詩巫
+
+#### 台灣
+>高雄市
+>>楠梓區
+
+---
+
 Emphasis, aka *italics*, with asterisks or *underscores*.<br>
 Strong emphasis, aka bold, with **asterisks** or **underscores**.<br>
 Combined emphasis with **asterisks and *underscores***.<br>
