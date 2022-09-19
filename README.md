@@ -32,9 +32,9 @@ alert (s);
 ```
 
 
-| left | center | right |
-| :------------- | :--------------------: | ------------:|
-| col 3 is | right aligned | 1600 | 
-| col 2 is | centered | 12 | 
-| col 3 is | are neat | 1 | 
-| test | 測試 | 3333 | 
+| Left-Aligned  | Center-Aligned | Right-Aligned |
+| :-------------| :-----------: | ----:|
+|   col 3 is    | right aligned | $1600 | 
+|   col 2 is    |    centered   |  $12  | 
+| zebra stripes |    are neat   |   $1  | 
+|  test  | 測試     |   $3333 | 
