@@ -1,4 +1,4 @@
-# LZH 111-3a 劉子輝
+# LZH 111-3a 劉子輝:imp:
 ## LZH 111-3a
 ### LZH 111-3a
 #### LZH 111-3a
@@ -6,13 +6,11 @@
 ###### LZH 111-3a 
 
 
-😎:bowtie::kissing_heart:
+:fire:  :bowtie:  :fire:
 
 ![NKUST](nkust.png "高科大")
 
 ---
-
-### 01
 
 Emphasis, aka *italics*, with asterisks or *underscores*.<br>
 Strong emphasis, aka bold, with **asterisks** or **underscores**.<br>
