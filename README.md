@@ -7,4 +7,7 @@
 
 ## emoji
 
-![nkust](github.jpg)
+![nkust](github.jpg "nkust")
+
+-[]todo list
+-[]done
