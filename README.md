@@ -5,13 +5,25 @@
 ##### LZH 111-3a
 ###### LZH 111-3a
 
-## emoji
+😎
+![nkust](nkust.png "高科大")
 
-![nkust](github.jpg "nkust")
-
--[] todo list
+-[ ] todo list
 -[x] done
 
 ```python
-s = "Python Syntax Highlighting"
+s = " Python Syntax Highlighting "
 print(s)
+```
+
+```js
+var s = " JavaScript syntax highlighting ";
+alert (s);
+```
+
+| left | center | right |
+| :------------- | :--------------------: | ------------:|
+| col 3 is | right aligned | 1600 | 
+| col 2 is | centered | 12 | 
+| col 3 is | are neat | 1 | 
+| test | 測試 | 3333 | 
